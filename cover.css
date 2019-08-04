@@ -1,21 +1,25 @@
 .cover {
-  width: 350px;
-  height: 500px;
+/*   width: 350px;
+  height: 500px; */
   /* finish your styling of the cover div here! */
   text-align: center;
+  font-family: 'Bitter', serif;
   font-family: 'Roboto', sans-serif;
 }
 #title {
-  
   font-size: 3em;
 }
 
 #subtitle {
-  ont-size: 2em;
-}
+  font-size: 2em;
+  font-color:  #4a4aff;
 }
 
 #cover_image {
-    width: 100px;
+    width: 80%;
     height: auto;
+}
+
+body {
+  background-color: #ffff66;
 }
