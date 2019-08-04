@@ -2,16 +2,20 @@
   width: 350px;
   height: 500px;
   /* finish your styling of the cover div here! */
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 #title {
-  font-family: 'Roboto', sans-serif;
-  font-size: 200px;
+  
+  font-size: 3em;
 }
 
 #subtitle {
-
+  ont-size: 2em;
+}
 }
 
 #cover_image {
-
+    width: 100px;
+    height: auto;
 }
