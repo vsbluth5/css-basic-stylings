@@ -4,21 +4,30 @@
 }
 
 #article_title {
-
+    font-family: 'Anton', sans-serif;
+  letter-spacing: 0.1em;
+  font-weight: bold;
 }
 
 #intro {
-
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: normal;
+  font-weight: bold;
+  line-height: normal;
 }
 
 .question{
-
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 0.1em;
+  line-height: normal;
 }
 
 .answer{
-
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 0.1em;
 }
 
 #block_quote {
-
+      font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.1em;
 }
