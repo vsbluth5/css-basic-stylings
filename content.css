@@ -1,12 +1,14 @@
 .page {
-  width:
-  height:
+  width: 300px
+  height: 500px;
+  background-color: #cccccc;
 }
 
 #article_title {
     font-family: 'Anton', sans-serif;
   letter-spacing: 0.1em;
   font-weight: bold;
+  line-height: 200%;
 }
 
 #intro {
@@ -24,7 +26,9 @@
 
 .answer{
   font-family: 'Raleway', sans-serif;
+  font-weight: bold;
   letter-spacing: 0.1em;
+  line-height: 1.6;
 }
 
 #block_quote {
