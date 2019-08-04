@@ -4,7 +4,8 @@
   /* finish your styling of the cover div here! */
 }
 #title {
-
+  font-family: 'Roboto', sans-serif;
+  font-size: 200px;
 }
 
 #subtitle {
