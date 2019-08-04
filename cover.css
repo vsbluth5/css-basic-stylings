@@ -4,10 +4,9 @@
   /* finish your styling of the cover div here! */
   text-align: center;
 /*   font-family: 'Bitter', serif; */
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Source Code Pro', monospace;
 }
 #title {
+  font-family: 'Roboto', sans-serif;
   font-size: 4em;
   padding-top: 50px;
   padding-right: 0px;
@@ -16,6 +15,7 @@
 }
 
 #subtitle {
+  font-family: 'Source Code Pro', monospace;
   font-size: 2em;
   color: cyan;
   opacity: .8;
