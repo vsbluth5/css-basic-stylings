@@ -32,6 +32,10 @@
 }
 
 #block_quote {
-      font-family: 'Oswald', sans-serif;
-    letter-spacing: 0.1em;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.1em;
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
 }
