@@ -6,10 +6,9 @@ color options:
   color: rgb(128,203,196); 
 */
 
-
 /* font-family for text
 font-family: "Gill Sans", sans-serif; */
-  /* This means try to use Gill Sans, but if you can't find that, then just use the default sans
+/* This means try to use Gill Sans, but if you can't find that, then just use the default sans
 
 /*
 GOOGLE FONTS
@@ -25,4 +24,3 @@ Use the font (with a fallback) in the elements you want to style.
 /* use background-color to add a color */
 body {
 }
-
