@@ -8,7 +8,13 @@ color options:
 */
 
 
+font-family for text
+h1 {
+  font-family: "Gill Sans", sans-serif;
+  /* This means try to use Gill Sans, but if you can't find that, then just use the default sans
+
 
 /* use background-color to add a color */
 body {
 }
+

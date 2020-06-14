@@ -15,8 +15,12 @@ The mockup you're going to create already has the html written. The different el
 * **alignment** of the text on the page.
 * **background color** of the page.
 * **font-family**, **font-size** of the text.
+* **Google fonts** https://fonts.google.com/ 
+* * How to: https://developers.google.com/fonts/docs/getting_started
+
 * **height** and **width**, and **font-weight** of an image
 * **margin** and **padding** around text or images. 
+
 
 #### Extensions
 * space between lines of text: **line-height**
