@@ -18,7 +18,7 @@ The mockup you're going to create already has the html written. The different el
 * **height** and **width**, and **font-weight** of an image
 * **margin** and **padding** around text or images. 
 
-#### The Challenge
-* shadows: text-shadow and box-shadow
-* background-image(with an image)
-* background-image(with a gradient)
+#### Extensions
+* space between lines of text: **line-height**
+* shadows: **text-shadow** and **box-shadow**
+* **background-image**
